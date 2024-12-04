@@ -3,6 +3,9 @@
 
 ## AIM:
 To create a 3D model from given orthographic projection.
+## NAME:PAVITHRA E
+## REF NO:24010962
+## DATE:4/12/2024
 
 ## REQUIREMENTS:
 1. Autodesk fusion 360
@@ -41,6 +44,7 @@ To create a 3D model from given orthographic projection.
 ![image](https://user-images.githubusercontent.com/113594316/198551872-276f8b80-bea8-4d4a-b2e8-bfdcd1e9d3cc.png)
 
 ## OUTPUT:
+![EDM3 1 DRAWING pdf pdf](https://github.com/user-attachments/assets/564e163e-49d8-402c-b314-ff249909da88)
 
 ## RESULT:
 Thus, 3D model is created from orthographic projection.
